@@ -9,7 +9,25 @@ namespace cSharpProject
             int length = 100;
             for (int j = 1; j <= length; j++)
             {
-                Console.Write(j);
+                if (j % 3 == 0)
+                {
+                    Console.Write("fizz");
+                }
+                else if (j % 5 == 0)
+                {
+                    Console.Write("Buzz");
+                }
+
+                else if (j % 3 == 0 && j % 5 == 0)
+                {
+                    Console.Write("fizzBuzz");
+                }
+                else
+                {
+                    Console.Write(j);
+                }
+
+
                 if (j == 100)
                 {
                     Console.WriteLine(".");
