@@ -28,7 +28,7 @@ namespace cSharpProject
                 }
 
 
-                if (j == 100)
+                if (j == length)
                 {
                     Console.WriteLine(".");
                 }
