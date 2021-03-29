@@ -11,7 +11,7 @@ namespace cSharpProject
             {
                 if (j % 3 == 0)
                 {
-                    Console.Write("fizz");
+                    Console.Write("Fizz");
                 }
                 else if (j % 5 == 0)
                 {
@@ -20,7 +20,7 @@ namespace cSharpProject
 
                 else if (j % 3 == 0 && j % 5 == 0)
                 {
-                    Console.Write("fizzBuzz");
+                    Console.Write("FizzBuzz");
                 }
                 else
                 {
