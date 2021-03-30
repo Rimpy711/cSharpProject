@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace cSharpProject
+namespace cSharpFizz
 {
     class Program
     {
