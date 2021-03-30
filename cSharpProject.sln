@@ -3,11 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cSharpException", "cSharpException\cSharpException.csproj", "{74F2E6B4-7B3B-447D-9CA4-9B0DC56FA966}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cSharpFizz", "cSharpFiizz\cSharpFizz.csproj", "{24E42F7E-13DF-431E-B9A6-ACB069F2ED20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cSharpTest", "cSharpTest\cSharpTest.csproj", "{E885FC87-4542-45C2-BA31-43505625CCFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cSharpTest", "cSharpTest\cSharpTest.csproj", "{E885FC87-4542-45C2-BA31-43505625CCFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{74F2E6B4-7B3B-447D-9CA4-9B0DC56FA966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{74F2E6B4-7B3B-447D-9CA4-9B0DC56FA966}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{74F2E6B4-7B3B-447D-9CA4-9B0DC56FA966}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{74F2E6B4-7B3B-447D-9CA4-9B0DC56FA966}.Release|Any CPU.Build.0 = Release|Any CPU
 		{24E42F7E-13DF-431E-B9A6-ACB069F2ED20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{24E42F7E-13DF-431E-B9A6-ACB069F2ED20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24E42F7E-13DF-431E-B9A6-ACB069F2ED20}.Release|Any CPU.ActiveCfg = Release|Any CPU
