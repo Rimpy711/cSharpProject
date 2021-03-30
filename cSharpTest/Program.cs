@@ -47,7 +47,7 @@ namespace cSharpTest
             {
                 Console.WriteLine("\nDivideByZeroException: " + e.Message);
             }
-                Console.WriteLine("End of Program");
+            Console.WriteLine("End of Program");
 
         }
     }
