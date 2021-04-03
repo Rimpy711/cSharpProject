@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cSharpFizz", "cSharpFiizz\c
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cSharpTest", "cSharpTest\cSharpTest.csproj", "{E885FC87-4542-45C2-BA31-43505625CCFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cSharpPrime", "cSharpPrime\cSharpPrime.csproj", "{BC00EA6B-D79B-4537-94EC-131B02E5CFDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorsTest", "PrimeFactorsTest\PrimeFactorsTest.csproj", "{ADBC2932-95D3-4D00-AB3F-2A4C076D2FBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{E885FC87-4542-45C2-BA31-43505625CCFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E885FC87-4542-45C2-BA31-43505625CCFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E885FC87-4542-45C2-BA31-43505625CCFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC00EA6B-D79B-4537-94EC-131B02E5CFDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC00EA6B-D79B-4537-94EC-131B02E5CFDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC00EA6B-D79B-4537-94EC-131B02E5CFDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC00EA6B-D79B-4537-94EC-131B02E5CFDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADBC2932-95D3-4D00-AB3F-2A4C076D2FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBC2932-95D3-4D00-AB3F-2A4C076D2FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBC2932-95D3-4D00-AB3F-2A4C076D2FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBC2932-95D3-4D00-AB3F-2A4C076D2FBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
